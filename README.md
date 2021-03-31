@@ -1,5 +1,5 @@
-### Hi there 👋, Daryl Wanji
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there, I am Daryl Wanji
+
 
 Skills: JAVA / PYTHON / C++  / HTML / CSS
 
