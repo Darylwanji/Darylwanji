@@ -1,12 +1,13 @@
-### Hi there, I am Daryl Wanji
+# Hi there, I am Daryl Wanji
 
+## Aspiring Data Scientist
 
 Skills: JAVA / PYTHON / C++  / HTML / CSS
 
-- 🔭 I’m currently working on Chess AI  
-- 🌱 I’m currently learning Pygame 
+- 🔭 I’m currently on working on some certifications 
+- 🌱 I’m currently learning Data Preparation 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I find the brachistochrone curve really interesting 
+- ⚡ Fun fact: I find the brachistochrone curve fascinating 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darylwanji)](https://github.com/anuraghazra/github-readme-stats)
 
