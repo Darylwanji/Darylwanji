@@ -1,8 +1,22 @@
 # Hi there, I am Daryl Wanji
 
 ## Aspiring Data Scientist
+Bsc is Science, Major in Computer Science -  June 2022
 
-Skills: JAVA / PYTHON / C++  / HTML / CSS
+## Skills
+### Data Science/ Data Analysis
+- Python 
+- SQL 
+- TensorFlow
+- Data Viz { Tableau } 
+
+### Web Dev 
+- Java 
+- HTML 
+- CSS
+
+
+## More
 
 - 🔭 I’m currently on working on some certifications 
 - 🌱 I’m currently learning Data Preparation 
