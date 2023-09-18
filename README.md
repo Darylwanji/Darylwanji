@@ -1,7 +1,7 @@
 # Hi there, I am Daryl Wanji
 
 ## Aspiring Data Scientist
-Bsc is Science, Major in Computer Science -  June 2022
+Bsc is Science, Major in Computer Science
 
 ## Skills
 ### Data Science/ Data Analysis
