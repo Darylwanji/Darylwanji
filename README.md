@@ -1,24 +1,24 @@
-# Hi there, I am Daryl Wanji
+# Hi there, I'm Daryl Wanji 👋
 
-## Aspiring Data Scientist
-Bsc is Science, Major in Computer Science
+## Experienced Data Scientist 📊
+BSc in Science, Major in Computer Science
 
-## Skills
+## Skills 🛠️
 ### Data Science/ Data Analysis
-- Python 
-- SQL 
+- Python
+- R
+- SQL
 - TensorFlow
-- Data Viz { Tableau } 
+- Data Viz (Tableau, Matplotlib, Seaborn)
 
-### Web Dev 
-- Java 
-- HTML 
-- CSS
+### Statistical Analysis 📈
+- Strong statistical background
 
+### Machine Learning 🤖
+- Skilled in designing, developing, and implementing end-to-end ML solutions
 
-## More
-
-- 🔭 I’m currently on working on some certifications 
+## More ℹ️
+- 🔭 I’m currently working on certifications to enhance my skills
 - 🌱 I’m currently learning Data Preparation 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I find the brachistochrone curve fascinating 
