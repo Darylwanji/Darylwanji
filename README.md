@@ -1,3 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Darylwanji.Darylwanji" />
+
+
+
+
+
 # Hi there, I'm Daryl Wanji 👋
 
 ## Experienced Data Scientist 📊
