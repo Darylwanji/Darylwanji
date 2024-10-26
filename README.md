@@ -1,13 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Darylwanji.Darylwanji" />
+<h1 align="center">
+  <img src='https://github.com/user-attachments/assets/d25dfd4f-90c8-40f5-a24c-13eb70bd5b55' width="150" height="150"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Daryl+Wanji;" />
+</h1>
 
+<h3 align="center"> Data Scientist from Canada 🇨🇦</h3>
 
-
-
-
-# Hi there, I'm Daryl Wanji 👋
-
-## Experienced Data Scientist 📊
-BSc in Science, Major in Computer Science
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:Daryl.wanji@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/darylwanji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</div>
 
 ## Skills 🛠️
 ### Data Science/ Data Analysis
@@ -23,11 +30,6 @@ BSc in Science, Major in Computer Science
 ### Machine Learning 🤖
 - Skilled in designing, developing, and implementing end-to-end ML solutions
 
-## More ℹ️
-- 🔭 I’m currently working on certifications to enhance my skills
-- 🌱 I’m currently learning Data Preparation 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I find the brachistochrone curve fascinating 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darylwanji)](https://github.com/anuraghazra/github-readme-stats)
 
