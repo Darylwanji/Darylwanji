@@ -5,32 +5,44 @@
 </h1>
 
 <h3 align="center"> Data Scientist from Canada 🇨🇦</h3>
+<br/>
 
- </div>
- 
+Bilingual Data professional with a uniquue blend of data science, data engineering, and data analytics expertise. Passionate about leveraging data to drive business growth driven by a user-centric approach.
 <div align="center"> 
   <a href="mailto:Daryl.wanji@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/darylwanji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
-## Skills 🛠️
-### Data Science/ Data Analysis
-- Python
-- R
-- SQL
-- TensorFlow
-- Data Viz (Tableau, Matplotlib, Seaborn)
-
-### Statistical Analysis 📈
-- Strong statistical background
-
-### Machine Learning 🤖
-- Skilled in designing, developing, and implementing end-to-end ML solutions
+<h2 align="center">Skills</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,docker,sublime,atom,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=azure,gcp,gitlab,github,git,linux,bash,pycharm,eclipse,vscode" />
+    <br>
+</div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darylwanji)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h2>Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Darylwanji/Darylwanji/output/github-contribution-grid-snake.svg" />
+  
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Darylwanji)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Daryl_b29/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Daryl_wanji)  
+<h2 align="center">Stats</h2>
+
+<div align=center>
+  <img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=Darylwanji&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=350 src="https://github-readme-stats.vercel.app/api?username=Darylwanji&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+
+</div>
+
+<hr/>
+<div align="center">
+  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darylwanji&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
