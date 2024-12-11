@@ -3,7 +3,7 @@
   <img src='https://github.com/user-attachments/assets/d25dfd4f-90c8-40f5-a24c-13eb70bd5b55' width="150" height="150"/>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Daryl+Wanji;" />
 </h1>
-<h3 align="center"> Data Scientist from Canada 🇨🇦</h3>
+<h3 align="center"> Data Professional from Canada 🇨🇦</h3>
 Bilingual Data professional with a uniquue blend of data science, data engineering, and data analytics expertise. Passionate about leveraging data to drive business growth driven by a user-centric approach.
 <div align="center"> 
   <a href="mailto:Daryl.wanji@gmail.com">
@@ -14,7 +14,7 @@ Bilingual Data professional with a uniquue blend of data science, data engineeri
   </a>
 </div>
 
-<h2 align="center">Skills</h2>
+<h2 align="center"> Skills </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,docker,sublime,atom,kubernetes,aws" />
