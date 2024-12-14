@@ -47,14 +47,6 @@ Bilingual Data professional with a uniquue blend of data science, data engineeri
     </div>
   </div>
 </div>
-
-<div align="center">
-  <h2>Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Darylwanji/Darylwanji/output/github-contribution-grid-snake.svg" />
-  
-</div>
-
 <h2 align="center">Stats</h2>
 
 <div align=center>
