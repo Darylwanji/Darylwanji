@@ -38,7 +38,7 @@ Bilingual Data professional with a uniquue blend of data science, data engineeri
     <div style="margin: 10px; text-align: center;">
       <h3>Sweeper's Gambit</h3>
       <p>A web-based gaming platform featuring Minesweeper and chess movement patterns with various game modes and themes.</p>
-      <a href="https://github.com/Darylwanji/Sweepers-Gambit" target="_blank">🔗 View Project</a>
+      <a href="https://github.com/Darylwanji/SweepersGambit" target="_blank">🔗 View Project</a>
     </div>
     <div style="margin: 10px; text-align: center;">
       <h3>Data Insights for Call Center Efficiency and Performance</h3>
