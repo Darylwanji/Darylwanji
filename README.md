@@ -188,17 +188,6 @@ Conducted rigorous A/B testing & statistical analysis, improving operational eff
 
 ---
 
-## 🎯 Core Strengths
-
-✅ **Machine Learning** - End-to-end model development, from data cleaning to production deployment  
-✅ **Data Engineering** - Building scalable ETL pipelines and optimized database architectures  
-✅ **Statistical Analysis** - A/B testing, causal inference, hypothesis testing with rigorous methodology  
-✅ **Problem Solving** - Tackling complex challenges through systematic analysis and creative approaches  
-✅ **Collaboration** - Thriving in cross-functional teams where I bridge technical and business perspectives  
-✅ **Communication** - Translating complex technical insights into clear, actionable recommendations  
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
